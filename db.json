@@ -1,40 +1,40 @@
 {
     "richpignft": [
             {
-                "name": "FANCYRICHPIG #2",
+                "name": "FANCYRICHPIG #3",
                 "description": "Rich Pig is a collection of 10,000 algorithmically generated digital collectibles. The imagination of 21 years old boy Marc & Fiona's Ideal graphic style.",
-                "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/2.png",
-                "dna": "81e831f04eab97534406d26c619dcb0149d26ae0",
-                "id": 2,
-                "date": 1650146002504,
+                "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/3.png",
+                "dna": "a101d6b73a0267136b85b916cada669c6e781efb",
+                "id": 3,
+                "date": 1650146002548,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
-                "value": "WHITE/BLUE TILE "
+                "value": "GREEN BINANCE "
             },
             {
                 "trait_type": "SKIN",
-                "value": "LIGHT BLUE "
+                "value": "BLACK "
             },
             {
                 "trait_type": "CLOTHES",
-                "value": "JACKET"
+                "value": "WINTER JACKET"
             },
             {
                 "trait_type": "NECKLACE",
-                "value": "CHAIN"
+                "value": "ETHEREUM"
             },
             {
                 "trait_type": "BAG",
-                "value": "ORDINARY "
+                "value": "NONE "
             },
             {
                 "trait_type": "GLASSES",
-                "value": "FASHION BLUE"
+                "value": "PIRATE BLUE"
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": "BITCOIN COIN "        
+                "value": "DAI COIN "        
             }
             ],            
                 "compiler": "RICHPIGNFT"
