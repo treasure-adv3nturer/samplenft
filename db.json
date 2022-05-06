@@ -1,40 +1,40 @@
 {
     "richpignft": [
             {
-                "name": "FANCYRICHPIG #5",
-                "description": "Rich Pig is a collection of 10,000 algorithmically generated digital collectibles. The imagination of 21 years old boy Marc & Fiona's Ideal graphic style.",
-                "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/5.png",
-                "dna": "c4cfb1039b03c80074cbbe64f90c0941a044db49",
-                "id": 5,
-                "date": 1650146002635,
+                "name": "FANCY RICHPIG #1",
+                "description": "Fancy RichPig is a collection of 10,000 algorithmically generated digital collectibles. The imagination of 21 years old boy Marc & Fiona's Ideal graphic style.",
+                "image": "https://gateway.pinata.cloud/ipfs/QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH/1.png",
+                "dna": "QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH1",
+                "id": 1,
+                "date": 1000000000001,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
-                "value": "GREY "
+                "value": "BRICK GREEN "
             },
             {
                 "trait_type": "SKIN",
-                "value": "BLACK "
+                "value": "FRECKLES BLACK"
             },
             {
                 "trait_type": "CLOTHES",
-                "value": "LONGSLEEVE BLACK"
+                "value": "SPACE SUIT"
             },
             {
                 "trait_type": "NECKLACE",
-                "value": "GREEN HEART "
+                "value": "N/A "
             },
             {
                 "trait_type": "BAG",
-                "value": "SLING GREY "
+                "value": "N/A "
             },
             {
                 "trait_type": "GLASSES",
-                "value": "GAGLES ORANGE"
+                "value": "FANCY GREEN"
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": "DISCORD COIN "        
+                "value": "BINANCE COIN "        
             }
             ],            
                 "compiler": "RICHPIGNFT"
