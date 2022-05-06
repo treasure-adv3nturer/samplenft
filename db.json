@@ -1,16 +1,16 @@
 {
     "richpignft": [
             {
-                "name": "FANCY RICHPIG #3",
+                "name": "FANCY RICHPIG #4",
                 "description": "Fancy RichPig is a collection of 10,000 algorithmically generated digital collectibles. The imagination of 21 years old boy Marc & Fiona's Ideal graphic style.",
-                "image": "https://gateway.pinata.cloud/ipfs/QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH/3.png",
-                "dna": "QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH3",
-                "id": 3,
-                "date": 1000000000003,
+                "image": "https://gateway.pinata.cloud/ipfs/QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH/4.png",
+                "dna": "QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH4",
+                "id": 4,
+                "date": 1000000000004,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
-                "value": "GREEN MINI BINANCE COIN "
+                "value": "FLOWER WHITE & GREY "
             },
             {
                 "trait_type": "SKIN",
@@ -18,23 +18,23 @@
             },
             {
                 "trait_type": "CLOTHES",
-                "value": "FANCY JACKET"
+                "value": "FANCY HOODIE"
             },
             {
                 "trait_type": "NECKLACE",
-                "value": "ETHEREUM "
+                "value": "HEADSET "
             },
             {
                 "trait_type": "BAG",
-                "value": "N/A "
+                "value": "FANCY SLING "
             },
             {
                 "trait_type": "GLASSES",
-                "value": "FANCY PIRATE BLUE"
+                "value": "FANCY WING BLUE"
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": "DAI COIN "        
+                "value": "DASH COIN "        
             }
             ],            
                 "compiler": "RICHPIGNFT"
