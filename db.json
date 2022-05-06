@@ -1,28 +1,28 @@
 {
     "richpignft": [
             {
-                "name": "FANCY RICHPIG #5",
+                "name": "FANCY RICHPIG #6",
                 "description": "Fancy RichPig is a collection of 10,000 algorithmically generated digital collectibles. The imagination of 21 years old boy Marc & Fiona's Ideal graphic style.",
-                "image": "https://gateway.pinata.cloud/ipfs/QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH/5.png",
-                "dna": "QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH5",
-                "id": 5,
-                "date": 1000000000005,
+                "image": "https://gateway.pinata.cloud/ipfs/QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH/6.png",
+                "dna": "QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH6",
+                "id": 6,
+                "date": 1000000000006,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
-                "value": "GREY "
+                "value": "ISLAND "
             },
             {
                 "trait_type": "SKIN",
-                "value": "BLACK"
+                "value": "BLACK MUD"
             },
             {
                 "trait_type": "CLOTHES",
-                "value": "FANCY LONGSLEEVE"
+                "value": "FANCY SUIT"
             },
             {
                 "trait_type": "NECKLACE",
-                "value": "HEART GREEN "
+                "value": "HANDKERCHEIF "
             },
             {
                 "trait_type": "BAG",
@@ -30,11 +30,11 @@
             },
             {
                 "trait_type": "GLASSES",
-                "value": "FANCY GAGGLES"
+                "value": "FANCY HEART"
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": "DISCORD COIN "        
+                "value": "ETHEREUM COIN "        
             }
             ],            
                 "compiler": "RICHPIGNFT"
