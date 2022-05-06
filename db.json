@@ -1,40 +1,40 @@
 {
     "richpignft": [
             {
-                "name": "FANCY RICHPIG #2",
+                "name": "FANCY RICHPIG #3",
                 "description": "Fancy RichPig is a collection of 10,000 algorithmically generated digital collectibles. The imagination of 21 years old boy Marc & Fiona's Ideal graphic style.",
-                "image": "https://gateway.pinata.cloud/ipfs/QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH/2.png",
-                "dna": "QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH2",
-                "id": 2,
-                "date": 1000000000002,
+                "image": "https://gateway.pinata.cloud/ipfs/QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH/3.png",
+                "dna": "QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH3",
+                "id": 3,
+                "date": 1000000000003,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
-                "value": "TILE WHITE & BLUE "
+                "value": "GREEN MINI BINANCE COIN "
             },
             {
                 "trait_type": "SKIN",
-                "value": "LIGHT BLUE"
+                "value": "BLACK"
             },
             {
                 "trait_type": "CLOTHES",
-                "value": "JACKET"
+                "value": "FANCY JACKET"
             },
             {
                 "trait_type": "NECKLACE",
-                "value": "CHAIN "
+                "value": "ETHEREUM "
             },
             {
                 "trait_type": "BAG",
-                "value": "GREEN BAG "
+                "value": "N/A "
             },
             {
                 "trait_type": "GLASSES",
-                "value": "FANCY STRIPE BLUE"
+                "value": "FANCY PIRATE BLUE"
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": "BITCOIN COIN "        
+                "value": "DAI COIN "        
             }
             ],            
                 "compiler": "RICHPIGNFT"
