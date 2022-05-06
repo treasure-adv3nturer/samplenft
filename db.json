@@ -1,24 +1,24 @@
 {
     "richpignft": [
             {
-                "name": "FANCY RICHPIG #7",
+                "name": "FANCY RICHPIG #8",
                 "description": "Fancy RichPig is a collection of 10,000 algorithmically generated digital collectibles. The imagination of 21 years old boy Marc & Fiona's Ideal graphic style.",
-                "image": "https://gateway.pinata.cloud/ipfs/QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH/7.png",
-                "dna": "QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH6",
-                "id": 7,
-                "date": 1000000000007,
+                "image": "https://gateway.pinata.cloud/ipfs/QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH/8.png",
+                "dna": "QmWNBQP5XEp5ATyRUiWcd9E9ZggYRA2WKenPqodxcLswBH8",
+                "id": 8,
+                "date": 1000000000008,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
-                "value": "FANCYRICHPIG LOGO MATTE GREEN "
+                "value": "GREEN "
             },
             {
                 "trait_type": "SKIN",
-                "value": "BLACK"
+                "value": "BLACK SCARRED"
             },
             {
                 "trait_type": "CLOTHES",
-                "value": "STRIPE SHIRT"
+                "value": "FANCY LONGSLEEVE"
             },
             {
                 "trait_type": "NECKLACE",
@@ -30,11 +30,11 @@
             },
             {
                 "trait_type": "GLASSES",
-                "value": "ROBIN MASK"
+                "value": "NINJA MASK"
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": "FACEBOOK COIN "        
+                "value": "INSTAGRAM COIN "        
             }
             ],            
                 "compiler": "RICHPIGNFT"
