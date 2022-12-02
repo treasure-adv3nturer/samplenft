@@ -1,12 +1,12 @@
 {
     "richpignft": [
             {
-                "name": "FANCY RICHPIG #1",
+                "name": "FANCY RICHPIG #2",
                 "description": "FancyRP is a PFP NFT Project that comes with a variety of 1999 unique collectibles.",
-                "image": "https://cdn.discordapp.com/attachments/753502036435271700/1048305705456771193/1.png",
-                "dna": "753502036435271700/1048305705456771193",
-                "id": 1,
-                "date": 1,
+                "image": "https://cdn.discordapp.com/attachments/753502036435271700/1048305706123673610/2.png",
+                "dna": "753502036435271700/1048305706123673610",
+                "id": 2,
+                "date": 2,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
