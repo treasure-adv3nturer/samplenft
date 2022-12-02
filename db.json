@@ -1,12 +1,12 @@
 {
     "richpignft": [
             {
-                "name": "FANCY RICHPIG #1",
+                "name": "FANCY RICHPIG #2",
                 "description": "FancyRP is a PFP NFT Project that comes with a variety of 1999 unique collectibles.",
-                "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/1.png",
+                "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/2.png",
                 "dna": "753502036435271700/1048305706123673610",
-                "id": 1,
-                "date": 1,
+                "id": 2,
+                "date": 2,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
@@ -34,7 +34,7 @@
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": "BNB"        
+                "value": "BITCOIN"        
             }
             ],            
                 "compiler": "FancyRichPig-Deployer"
