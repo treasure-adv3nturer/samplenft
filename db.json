@@ -1,40 +1,40 @@
 {
     "richpignft": [
             {
-                "name": "FANCY RICHPIG #99",
+                "name": "FANCY RICHPIG #1",
                 "description": "FancyRP is a PFP NFT Project that comes with a variety of 1999 unique collectibles.",
-                "image": "https://cdn.discordapp.com/attachments/753502036435271700/1048306598730268863/99.png",
-                "dna": "753502036435271700/1048306598730268863",
-                "id": 99,
-                "date": 99,
+                "image": "https://cdn.discordapp.com/attachments/753502036435271700/1048305705456771193/1.png",
+                "dna": "753502036435271700/1048305705456771193",
+                "id": 1,
+                "date": 1,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
-                "value": "TWO COLORS"
+                "value": ""
             },
             {
                 "trait_type": "SKIN",
-                "value": "W/ STITCHES"
+                "value": ""
             },
             {
                 "trait_type": "CLOTHES",
-                "value": "FANCY"
+                "value": ""
             },
             {
                 "trait_type": "NECKLACE",
-                "value": "GOOD"
+                "value": ""
             },
             {
                 "trait_type": "HEAD",
-                "value": "SANTA HAT"
+                "value": ""
             },
             {
                 "trait_type": "GLASSES",
-                "value": "GOOD"
+                "value": ""
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": "ROSE"        
+                "value": ""        
             }
             ],            
                 "compiler": "FancyRichPig-Deployer"
