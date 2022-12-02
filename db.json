@@ -1,24 +1,24 @@
 {
     "richpignft": [
             {
-                "name": "FANCY RICHPIG #1",
+                "name": "FANCY RICHPIG #2",
                 "description": "is a PFP NFT Project that comes with a variety of 1999 unique collectibles.",
-                "image": "https://cdn.discordapp.com/attachments/753502036435271700/1048306599074205796/100.png",
+                "image": "https://cdn.discordapp.com/attachments/753502036435271700/1048306598730268863/99.png",
                 "dna": "753502036435271700/976900618339893258",
-                "id": 1,
+                "id": 2,
                 "date": 100000000001,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
-                "value": "STRIPE"
+                "value": "AMAZING"
             },
             {
                 "trait_type": "SKIN",
-                "value": "PINK W/ TATTOO"
+                "value": "VIOLET STITCHES"
             },
             {
                 "trait_type": "CLOTHES",
-                "value": "SUIT W/ BOWTIE"
+                "value": "SUIT"
             },
             {
                 "trait_type": "NECKLACE",
@@ -34,7 +34,7 @@
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": "STAR"        
+                "value": "ROSE"        
             }
             ],            
                 "compiler": "FancyRP"
