@@ -1,43 +1,43 @@
 {
     "richpignft": [
             {
-                "name": "Vogonians #1",
-                "description": "is a PFP NFT Project that comes with a variety of 10,000 unique vogo collectibles.",
-                "image": "https://cdn.discordapp.com/attachments/753502036435271700/976900618339893258/vogonians1.png",
+                "name": "FANCY RICHPIG #1",
+                "description": "is a PFP NFT Project that comes with a variety of 1999 unique collectibles.",
+                "image": "https://cdn.discordapp.com/attachments/753502036435271700/1048299304118407250/1.png",
                 "dna": "753502036435271700/976900618339893258",
-                "id": 10,
+                "id": 1,
                 "date": 100000000001,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
-                "value": "Unique Traits"
+                "value": "BRICK"
             },
             {
                 "trait_type": "SKIN",
-                "value": "Unique Traits"
+                "value": "BLACK"
             },
             {
                 "trait_type": "CLOTHES",
-                "value": "Unique Traits"
+                "value": "SPACE SUIT"
             },
             {
                 "trait_type": "NECKLACE",
-                "value": "Unique Traits "
+                "value": "N/A "
             },
             {
                 "trait_type": "BAG",
-                "value": "Unique Traits "
+                "value": "N/A"
             },
             {
                 "trait_type": "GLASSES",
-                "value": "Unique Traits"
+                "value": "SKINNY"
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": "Unique Traits "        
+                "value": "BNB COIN"        
             }
             ],            
-                "compiler": "VogoSpace"
+                "compiler": "FancyRP"
          }
     ]
 }
