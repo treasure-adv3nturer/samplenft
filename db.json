@@ -1,12 +1,12 @@
 {
     "richpignft": [
             {
-                "name": "FANCY RICHPIG #5",
-                "description": "FancyRP is a PFP NFT Project that comes with a variety of 1999 unique collectibles.",
-                "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/5.png",
-                "dna": "753502036435271700/1048305706123673610",
-                "id": 5,
-                "date": 5,
+                "name": "",
+                "description": "FancyRP is a PFP NFT Project that comes with a variety of 2222 unique collectibles.",
+                "image": "https://i.seadn.io/gae/8x1wBG5mcFyd902c5uF0fGa8n-pptHj6OW0xMzVVo_sVGTh0OaE3olcauTDeFfJ4feyifrKi5xJSvxABC3e6UVvZwQsUp4KHIONu?auto=format&w=1920",
+                "dna": "053502036435271700/1048305706123673610",
+                "id": 0,
+                "date": 0,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
@@ -34,7 +34,7 @@
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": "DISCORD"        
+                "value": ""        
             }
             ],            
                 "compiler": "FancyRichPig-Deployer"
