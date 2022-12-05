@@ -3,14 +3,14 @@
             {
                 "name": "",
                 "description": "",
-                "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/5.png",
-                "dna": "453502036435271700/1048305706123673610",
-                "id": 5,
-                "date": 5,
+                "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/6.png",
+                "dna": "653502036435271700/1048305706123673610",
+                "id": 6,
+                "date": 6,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
-                "value": "Grey"
+                "value": "Rare"
             },
             {
                 "trait_type": "SKIN",
@@ -18,15 +18,15 @@
             },
             {
                 "trait_type": "CLOTHES",
-                "value": "Polo"
+                "value": "Farmer Suit"
             },
             {
                 "trait_type": "NECKLACE",
-                "value": "Heart"
+                "value": "Handkerchief"
             },
             {
                 "trait_type": "HEAD",
-                "value": "Waway"
+                "value": "Crown"
             },
             {
                 "trait_type": "GLASSES",
@@ -34,7 +34,7 @@
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": "Discord Coin"        
+                "value": "ETH Coin"        
             }
             ],            
                 "compiler": "FancyRichPig-Deployer"
