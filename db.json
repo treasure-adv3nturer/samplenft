@@ -3,30 +3,30 @@
             {
                 "name": "",
                 "description": "",
-                "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/1.png",
-                "dna": "053502036435271700/1048305706123673610",
-                "id": 1,
-                "date": 1,
+                "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/2.png",
+                "dna": "253502036435271700/1048305706123673610",
+                "id": 2,
+                "date": 2,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
-                "value": "Green"
+                "value": "Sky Blue,White"
             },
             {
                 "trait_type": "SKIN",
-                "value": "Black"
+                "value": "Gradient"
             },
             {
                 "trait_type": "CLOTHES",
-                "value": "Space Suit"
+                "value": "Varsity Jacket"
             },
             {
                 "trait_type": "NECKLACE",
-                "value": ""
+                "value": "Chain"
             },
             {
                 "trait_type": "HEAD",
-                "value": "Piglet"
+                "value": "Cap"
             },
             {
                 "trait_type": "GLASSES",
@@ -34,7 +34,7 @@
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": "BNB Coin"        
+                "value": "BTC Coin"        
             }
             ],            
                 "compiler": "FancyRichPig-Deployer"
