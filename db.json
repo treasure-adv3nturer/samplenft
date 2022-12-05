@@ -2,23 +2,23 @@
     "richpignft": [
             {
                 "name": "",
-                "description": "FancyRP is a PFP NFT Project that comes with a variety of 2222 unique collectibles.",
-                "image": "https://i.seadn.io/gae/8x1wBG5mcFyd902c5uF0fGa8n-pptHj6OW0xMzVVo_sVGTh0OaE3olcauTDeFfJ4feyifrKi5xJSvxABC3e6UVvZwQsUp4KHIONu?auto=format&w=1920",
+                "description": "",
+                "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/1.png",
                 "dna": "053502036435271700/1048305706123673610",
                 "id": 1,
                 "date": 1,
                 "attributes": [
             {
                 "trait_type": "BACKGROUND",
-                "value": ""
+                "value": "Green"
             },
             {
                 "trait_type": "SKIN",
-                "value": ""
+                "value": "Black"
             },
             {
                 "trait_type": "CLOTHES",
-                "value": ""
+                "value": "Space Suit"
             },
             {
                 "trait_type": "NECKLACE",
@@ -26,15 +26,15 @@
             },
             {
                 "trait_type": "HEAD",
-                "value": ""
+                "value": "Piglet"
             },
             {
                 "trait_type": "GLASSES",
-                "value": ""
+                "value": "Fancy"
             },
             {
                 "trait_type": "ACCESSORIES",
-                "value": ""        
+                "value": "BNB Coin"        
             }
             ],            
                 "compiler": "FancyRichPig-Deployer"
