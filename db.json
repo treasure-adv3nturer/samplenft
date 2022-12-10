@@ -1,16 +1,16 @@
 {
   "richpignft": [
     {
-      "name": "FANCY RICHPIG #7",
+      "name": "FANCY RICHPIG #8",
       "description": "",
-      "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/7.png",
+      "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/8.png",
       "dna": "653502036435271700/1048305706123673610",
-      "id": 7,
-      "date": 7,
+      "id": 8,
+      "date": 8,
       "attributes": [
         {
           "trait_type": "ID",
-          "value": "#7"
+          "value": "#8"
         },
         {
           "trait_type": "SKIN",
