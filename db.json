@@ -1,43 +1,27 @@
 {
-  "richpignft": [
+  "privatelist": [
     {
-      "name": "FANCY RICHPIG #14",
-      "description": "",
-      "image": "https://gateway.pinata.cloud/ipfs/QmeMgnjAKVUjPVmfPUSTspZ5iYUG8Miwhk7LK9FDE1eiix/14.png",
-      "dna": "653502036435271700/1048305706123673610",
-      "id": 14,
-      "date": 14,
-      "attributes": [
-        {
-          "trait_type": "ID",
-          "value": "#14"
-        },
-        {
-          "trait_type": "SKIN",
-          "value": ""
-        },
-        {
-          "trait_type": "CLOTHES",
-          "value": ""
-        },
-        {
-          "trait_type": "NECKLACE",
-          "value": ""
-        },
-        {
-          "trait_type": "HEAD",
-          "value": ""
-        },
-        {
-          "trait_type": "GLASSES",
-          "value": ""
-        },
-        {
-          "trait_type": "ACCESSORIES",
-          "value": ""
-        }
-      ],
-      "compiler": "FancyRichPig-Deployer"
+      "To sell an NFT privately on OpenSea, you will need to complete the following instructions: 
+
+"Step 1: Visit OpenSea.io and log in to your account on the top-right-hand side of the screen. 
+
+"Step 2: Find the NFT you want to sell in your collection and click the blue “sell” button. If your NFT was already listed on the market, you will need to delist it first. 
+
+'Step 3: You will be redirected to a page where you can set up the sale. Choose the “Set Price” method, then enter the price of ether (ETH) that you want to receive for your asset. 
+
+"Step 4: Click the toggle key on “More Options” then click “Reserve for specific buyer”.
+      
+"Step 5: If you haven’t already, ask the buyer for their MetaMask wallet information (if they don’t use the browser extension, they may give you another wallet address that is compatible with OpenSea). Copy the address, then paste it in the required field that appeared when you clicked the “Privacy” toggle.
+
+"Step 6: Look at the Summary to ensure that all information is correct. You will also be able to see the fees you’ll need to pay (both to OpenSea and to the original artist).
+
+"Step 7: Click the blue “Post Your Listing” button. 
+
+"Step 8: You should see two pop-up boxes appear. The first will be from OpenSea to confirm your listing and the second will be from MetaMask to sign the transaction. Once you sign the transaction, your NFT will be privately listed. 
+
+"Step 9: Let the buyer know that you have set up the NFT for private sale. They will be able to login and see your listing. There should be a notice above it stating, “This listing is reserved for you!” Once they purchase it, you can finalize the transaction. 
+ 
+ "Step 10: Once you've done listing it Click the Transfer Button input the opponent address and transfer it.     
     }
   ]
 }
