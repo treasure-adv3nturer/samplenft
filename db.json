@@ -5,7 +5,7 @@
 
 "Step 2: Find the NFT you want to sell in your collection and click the blue “sell” button. If your NFT was already listed on the market, you will need to delist it first.",
 
-'Step 3: You will be redirected to a page where you can set up the sale. Choose the “Set Price” method, then enter the price of ether (ETH) that you want to receive for your asset.", 
+"Step 3: You will be redirected to a page where you can set up the sale. Choose the “Set Price” method, then enter the price of ether (ETH) that you want to receive for your asset.", 
 
 "Step 4: Click the toggle key on “More Options” then click “Reserve for specific buyer”.",
       
@@ -34,7 +34,7 @@
                 "value": ""
             }
             ],
-                "compiler": "TSOL"
+                "compiler": "Private List"
          }
     ]
 }
