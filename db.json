@@ -20,20 +20,7 @@
 "Step 9: Let the buyer know that you have set up the NFT for private sale. They will be able to login and see your listing. There should be a notice above it stating, “This listing is reserved for you!” Once they purchase it, you can finalize the transaction.",
  
  "Step 10: Once you've done listing it Click the Transfer Button input the opponent address and transfer it.",     
-                "attributes": [
-            {
-                "trait_type": "",
-                "value": ""
-            },
-            {
-                "trait_type": "",
-                "value": ""
-            },
-            {
-                "trait_type": "",
-                "value": ""
-            }
-            ],
+          
                 "compiler": "Private List"
          }
     ]
