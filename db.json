@@ -1,27 +1,25 @@
 {
-    "privatelist": [
+    "richpignft": [
             {
-                "Step 1: Visit OpenSea.io and log in to your account on the top-right-hand side of the screen.", 
-
-"Step 2: Find the NFT you want to sell in your collection and click the blue “sell” button. If your NFT was already listed on the market, you will need to delist it first.",
-
-"Step 3: You will be redirected to a page where you can set up the sale. Choose the “Set Price” method, then enter the price of ether (ETH) that you want to receive for your asset.", 
-
-"Step 4: Click the toggle key on “More Options” then click “Reserve for specific buyer”.",
-      
-"Step 5: If you haven’t already, ask the buyer for their MetaMask wallet information (if they don’t use the browser extension, they may give you another wallet address that is compatible with OpenSea). Copy the address, then paste it in the required field that appeared when you clicked the “Privacy” toggle.",
-
-"Step 6: Look at the Summary to ensure that all information is correct. You will also be able to see the fees you’ll need to pay (both to OpenSea and to the original artist).",
-
-"Step 7: Click the blue “Post Your Listing” button.", 
-
-"Step 8: You should see two pop-up boxes appear. The first will be from OpenSea to confirm your listing and the second will be from MetaMask to sign the transaction. Once you sign the transaction, your NFT will be privately listed.",
-
-"Step 9: Let the buyer know that you have set up the NFT for private sale. They will be able to login and see your listing. There should be a notice above it stating, “This listing is reserved for you!” Once they purchase it, you can finalize the transaction.",
- 
- "Step 10: Once you've done listing it Click the Transfer Button input the opponent address and transfer it.",     
-          
-                "compiler": "Private List"
+                "name": "Unreveal",
+                "description": "Unlocked all traits to be used by your fancy",
+                "image": "https://firebasestorage.googleapis.com/v0/b/fancy-rich-pig.appspot.com/o/images%2Flogo.jpg?alt=media&token=537acb85-1c33-4d4f-82eb-c626e66040fa",
+                "collection": "https://opensea.io/collection/fancyrich-pig",
+                "attributes": [
+            {
+                "trait_type": "",
+                "value": ""
+            },
+            {
+                "trait_type": "",
+                "value": ""
+            },
+            {
+                "trait_type": "",
+                "value": ""
+            }
+            ],
+                "compiler": "TSOL"
          }
     ]
 }
